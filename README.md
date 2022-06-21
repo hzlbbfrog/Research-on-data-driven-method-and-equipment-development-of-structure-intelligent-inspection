@@ -6,7 +6,7 @@ This is my master dissertation.
 # Supplementary description
 The dissertation was submitted to Southeast University for the academic degree of master of engineering and is written in Chinese.  
 **Feel free to download it!**  
-If you have any question, please don't hesitate to contact me by.  
+If you have any question, please don't hesitate to contact me.  
 PS. You may read it by using translation software if you are not proficient in Chinese.
 
 # Citation
